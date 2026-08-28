@@ -9,5 +9,5 @@ This repository contains the Day 1 task for the Artificial Intelligence & Machin
 - Evaluate and print the model accuracy score.
 
 ## Tech Stack & Libraries
-- Google Colab / Jupyter Notebook
+- Google Colab 
 - Scikit-Learn
